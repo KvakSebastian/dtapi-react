@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dtapi-react/static/css/main.fa242e6f.chunk.css",
-    "main.js": "/dtapi-react/static/js/main.1826808b.chunk.js",
-    "main.js.map": "/dtapi-react/static/js/main.1826808b.chunk.js.map",
+    "main.js": "/dtapi-react/static/js/main.905c0208.chunk.js",
+    "main.js.map": "/dtapi-react/static/js/main.905c0208.chunk.js.map",
     "runtime-main.js": "/dtapi-react/static/js/runtime-main.5d25ac57.js",
     "runtime-main.js.map": "/dtapi-react/static/js/runtime-main.5d25ac57.js.map",
-    "static/js/2.576ff6b6.chunk.js": "/dtapi-react/static/js/2.576ff6b6.chunk.js",
-    "static/js/2.576ff6b6.chunk.js.map": "/dtapi-react/static/js/2.576ff6b6.chunk.js.map",
+    "static/js/2.a85ec8aa.chunk.js": "/dtapi-react/static/js/2.a85ec8aa.chunk.js",
+    "static/js/2.a85ec8aa.chunk.js.map": "/dtapi-react/static/js/2.a85ec8aa.chunk.js.map",
     "static/js/3.759dfe82.chunk.js": "/dtapi-react/static/js/3.759dfe82.chunk.js",
     "static/js/3.759dfe82.chunk.js.map": "/dtapi-react/static/js/3.759dfe82.chunk.js.map",
     "index.html": "/dtapi-react/index.html",
     "static/css/main.fa242e6f.chunk.css.map": "/dtapi-react/static/css/main.fa242e6f.chunk.css.map",
-    "static/js/2.576ff6b6.chunk.js.LICENSE.txt": "/dtapi-react/static/js/2.576ff6b6.chunk.js.LICENSE.txt"
+    "static/js/2.a85ec8aa.chunk.js.LICENSE.txt": "/dtapi-react/static/js/2.a85ec8aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d25ac57.js",
-    "static/js/2.576ff6b6.chunk.js",
+    "static/js/2.a85ec8aa.chunk.js",
     "static/css/main.fa242e6f.chunk.css",
-    "static/js/main.1826808b.chunk.js"
+    "static/js/main.905c0208.chunk.js"
   ]
 }
